@@ -2,7 +2,7 @@
 
 ### Description
 This project derives from the ongoing process of fully remodeling the Olympic Fitness, which is a medium-sized old school style gym or fitness center established in 1973. 
-Business owners decided to perform full-scale remodeling and renovation of the establishment. The author of this presentation has been contributing to multiple phases of the 
+Business owners decided to perform full-scale remodeling and renovation of the establishment. The author of this presentation has been volunteering to multiple phases of the 
 Olympic Fitness’ continuous project that was launched in January 2023. 
 
 <b>Click the following to open the presentation:</b> https://github.com/Juan-Moctezuma/Olympic_Fitness-Business_Analysis/blob/main/Olympic_Fitness-Business_Analysis.pdf <br><br>
@@ -24,6 +24,14 @@ Olympic Fitness’ continuous project that was launched in January 2023.
 # What's included in the spreadsheet (per tab)?
    * Gross Sales - January 2023 to July 2023
    * Gross Sales - Forecasting
+   * New Equipment Budget - January 2023 to July 2023
+   * New Equipment Cost Estimation
+   * Gym Members (tabs from January 2023 - July 2023)
+   * Gym Churn Data
+   * Logo Survey Participants & responses
+   * Replacement Survey Participants & responses
+   * New Equipment Survey Participants & responses
+   * Customer Experience Participants & reponses
 
 
 
