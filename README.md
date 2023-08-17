@@ -5,8 +5,9 @@ This project derives from the ongoing process of fully remodeling the Olympic Fi
 Business owners decided to perform full-scale remodeling and renovation of the establishment. The author of this presentation has been contributing to multiple phases of the 
 Olympic Fitness’ continuous project that was launched in January 2023. 
 
-<b>Click the following to open the presentation:</b> https://github.com/Juan-Moctezuma/Olympic_Fitness-Business_Analysis/blob/main/Olympic_Fitness-Business_Analysis.pdf <br>
-<b>To download and see the numerical and survey results, click the following link:</b> https://github.com/Juan-Moctezuma/Olympic_Fitness-Business_Analysis/blob/main/Olympic%20Fitness%20-%20Numerical%20%26%20Survey%20Data.xlsx
+<b>Click the following to open the presentation:</b> https://github.com/Juan-Moctezuma/Olympic_Fitness-Business_Analysis/blob/main/Olympic_Fitness-Business_Analysis.pdf <br><br>
+<b>To download and see the numerical and survey results, click the following link:</b> https://github.com/Juan-Moctezuma/Olympic_Fitness-Business_Analysis/blob/main/Olympic%20Fitness%20-%20Numerical%20%26%20Survey%20Data.xlsx <br><br>
+<b>Reference:</b> https://www.instagram.com/olympic.fitness.tj/
 
 # This ongoing project’s business analysis involves the following: 
    * Understanding business objectives
@@ -20,7 +21,9 @@ Olympic Fitness’ continuous project that was launched in January 2023.
 ### Excel GIF
 <img src="Assets/Results-Excel_Sheet.gif" width="80%">
 
- 
+# What's included in the spreadsheet (per tab)?
+   * Gross Sales - January 2023 to July 2023
+   * Gross Sales - Forecasting
 
 
 
