@@ -33,6 +33,12 @@ Olympic Fitness’ continuous project that was launched in January 2023.
    * New Equipment Survey Participants & responses
    * Customer Experience Participants & reponses
 
-
+# Learning outcomes & experiences
+   * Interpersonal skills and constant interaction
+   * Creating and conducting surveys
+   * Decision-making experience and providing recommendations
+   * Creating a budget and deciding what equipment needs to get purchased
+   * Excel's forecasting function
+   * Business acumen with emphasis on Gyms or Fitness Centers
 
   
