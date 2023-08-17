@@ -5,6 +5,9 @@ This project derives from the ongoing process of fully remodeling the Olympic Fi
 Business owners decided to perform full-scale remodeling and renovation of the establishment. The author of this presentation has been contributing to multiple phases of the 
 Olympic Fitness’ continuous project that was launched in January 2023. 
 
+<b>Click the following to open the presentation:</b> https://github.com/Juan-Moctezuma/Olympic_Fitness-Business_Analysis/blob/main/Olympic_Fitness-Business_Analysis.pdf
+<b>To see the numerical and survey results, click the following link:</b> 
+
 # This ongoing project’s business analysis involves the following: 
    * Understanding business objectives
    * Research surveys
