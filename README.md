@@ -40,5 +40,6 @@ Olympic Fitness’ continuous project that was launched in January 2023.
    * Creating a budget and deciding what equipment needs to get purchased
    * Excel's forecasting function
    * Business acumen with emphasis on Gyms or Fitness Centers
+   * Planning for the future
 
   
