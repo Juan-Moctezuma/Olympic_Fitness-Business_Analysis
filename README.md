@@ -14,6 +14,8 @@ Olympic Fitness’ continuous project that was launched in January 2023.
    * Customer experience
    * Branding & logo selection
 
+### Excel GIF
+<img src="Assets/Results-Excel_Sheet.gif" width="80%">
 
  
 
