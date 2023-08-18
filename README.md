@@ -35,11 +35,11 @@ Olympic Fitness’ continuous project that was launched in January 2023.
 
 # Learning outcomes & experiences
    * Interpersonal skills and constant interaction
-   * Creating and conducting surveys
+   * Creating and conducting research surveys
    * Decision-making experience and providing recommendations
    * Creating a budget and deciding what equipment needs to get purchased
-   * Excel's forecasting function
+   * Excel's linear forecast function for gross sales
    * Business acumen with emphasis on Gyms or Fitness Centers
-   * Planning for the future
+   * Planning for Growth
 
   
