@@ -3,7 +3,7 @@
 ### Description
 This project derives from the ongoing process of fully remodeling the Olympic Fitness, which is a medium-sized old school style gym or fitness center established in 1973. 
 Business owners decided to perform full-scale remodeling and renovation of the establishment. The author of this presentation has been volunteering to multiple phases of the 
-Olympic Fitness’ continuous project that was launched in January 2023. 
+Olympic Fitness’ continuous project that was launched in January 2023. The next big milestone is to set up a CrossFit section in the establishment's back patio - this is expected to be completed on 2025.
 
 <b>Click the following to open the presentation:</b> https://github.com/Juan-Moctezuma/Olympic_Fitness-Business_Analysis/blob/main/Olympic_Fitness-Business_Analysis.pdf <br><br>
 <b>To download and see the numerical and survey results, click the following link:</b> https://github.com/Juan-Moctezuma/Olympic_Fitness-Business_Analysis/blob/main/Olympic%20Fitness%20-%20Numerical%20%26%20Survey%20Data.xlsx <br><br>
