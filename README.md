@@ -40,6 +40,6 @@ Olympic Fitness’ continuous project that was launched in January 2023. The nex
    * Creating a budget and deciding what equipment needs to get purchased
    * Excel's linear forecast function for gross sales
    * Business acumen with emphasis on Gyms or Fitness Centers
-   * Planning for Growth
+   * Planning for growth
 
   
